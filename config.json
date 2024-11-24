@@ -2,7 +2,7 @@
         "pools":[
         {
                 "name": "luckpool",
-        "url": "stratum+ssl://ap.luckpool.net:3958",
+        "url": "stratum+ssl://cn.vipor.net:5140",
                 "timeout": 150,
                 "disabled": 0
         }],
