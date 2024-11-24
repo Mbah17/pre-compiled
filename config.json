@@ -1,7 +1,7 @@
 {
         "pools":[
         {
-                "name": "luckpool",
+                "name": "vipor",
         "url": "cn.vipor.net:5140",
                 "timeout": 150,
                 "disabled": 0
